@@ -1,5 +1,3 @@
-/*! noble-hashes - MIT License (c) 2022 Paul Miller (paulmillr.com) */
-
 /**
  * @license React
  * use-sync-external-store-shim.production.min.js
